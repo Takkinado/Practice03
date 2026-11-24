@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\bin\Debug\Microsoft Access Database.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\bin\Debug\Dnevnik.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\bin\Debug\Dnevnik.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\bin\Debug\Dnevnik.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ 03\Решение Семенов\Dnevnik\Dnevnik\obj\Debug\Dnevnik.pdb
